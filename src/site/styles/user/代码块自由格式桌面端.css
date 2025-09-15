@@ -1,0 +1,23 @@
+/* 代码块自由格式桌面端（不要在移动端上开启） */
+.code{
+	display:block;
+	background-color:var(--code-background);
+	border-radius:var(--code-radius);
+	padding:var(--size-4-3) var(--size-4-4);
+	width:100%;
+	font-size:var(--code-size);
+	font-family:var(--font-monospace);
+}
+/* 
+所写的代码块要前后各加一行空行，且在代码块前加<font class="code">，后面加</font>，否则显示会有问题
+单行代码块示例：
+
+<font class="code">[Huawei] **stp priority** priority</font>
+
+多行代码块示例：
+
+<font class="code">[Huawei] **stp priority** priority
+[Huawei] **stp priority** priority
+[Huawei] **stp priority** priority</font>
+
+ */
