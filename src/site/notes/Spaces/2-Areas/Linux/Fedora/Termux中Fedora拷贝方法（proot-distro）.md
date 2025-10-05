@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Spaces/2-Areas/Linux/Fedora/Termux中Fedora拷贝方法（proot-distro）/"}
+{"dg-publish":true,"dg-path":"Linux/Fedora/Termux中Fedora拷贝方法（proot-distro）.md","permalink":"/Linux/Fedora/Termux中Fedora拷贝方法（proot-distro）/"}
 ---
 
 如果你是通过 proot-distro 安装的Fedora，拷贝文件到 Fedora 环境中的方法会更加简单。以下是具体步骤：
@@ -159,7 +159,7 @@ chmod a+w ~/../usr/var/lib/proot-distro/installed-rootfs/fedora/home/user/
    - 确保 Fedora 中的目标目录（如 `/home/user`）已存在，否则先手动创建。
 
 3. **推荐方法**
-   - **挂载目录**（[方法2](#方法2：启动时挂载目录（推荐）)或[方法3](#方法3：通过%20Android%20共享存储挂载目录（如%20Downloads%20目录）)）是最方便的选择，无需频繁操作根目录，且安全便捷。
+   - **挂载目录**（[[#方法2：启动时挂载目录（推荐）|方法2]]或[[#方法3：通过 Android 共享存储挂载目录（如 Downloads 目录）|方法3]]）是最方便的选择，无需频繁操作根目录，且安全便捷。
 
 ---
 

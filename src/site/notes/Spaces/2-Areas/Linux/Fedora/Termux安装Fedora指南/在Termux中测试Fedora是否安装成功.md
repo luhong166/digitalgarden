@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Spaces/2-Areas/Linux/Fedora/Termux安装Fedora指南/在Termux中测试Fedora是否安装成功/"}
+{"dg-publish":true,"dg-path":"Linux/Fedora/Termux安装Fedora指南/在Termux中测试Fedora是否安装成功.md","permalink":"/Linux/Fedora/Termux安装Fedora指南/在Termux中测试Fedora是否安装成功/"}
 ---
 
 在Termux中通过启动Fedora容器后，可以通过以下 **直观特征** 判断是否成功进入 Fedora 环境：

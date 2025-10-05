@@ -1,15 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/Spaces/2-Areas/Linux/Fedora/Termux安装Fedora指南/使用proot-distro安装/"}
+{"dg-publish":true,"dg-path":"Linux/Fedora/Termux安装Fedora指南/使用proot-distro安装.md","permalink":"/Linux/Fedora/Termux安装Fedora指南/使用proot-distro安装/"}
 ---
 
-# 目录
-- [前言](#前言)
-- [正文](#正文)
-	- [步骤1：准备Termux环境](#步骤1：准备Termux环境)
-	- [步骤2：安装Fedora](#步骤2：安装Fedora)
-	- [步骤3：运行Fedora](#步骤3：运行Fedora)
-- [操作流程图解](#操作流程图解)
-- [以后启动Fedora的操作](#以后启动Fedora的操作)
 # 前言
 1. 由于Termux不兼容RHEL，只能安装社区版的红帽Linux：Fedora。
 2. 在代码块的右上角有一个图标，点击即可复制代码块内的内容。

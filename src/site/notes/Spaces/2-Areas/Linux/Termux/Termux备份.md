@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Spaces/2-Areas/Linux/Termux/Termux备份/"}
+{"dg-publish":true,"dg-path":"Linux/Termux/Termux备份.md","permalink":"/Linux/Termux/Termux备份/"}
 ---
 
 
